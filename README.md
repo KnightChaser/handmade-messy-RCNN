@@ -1,4 +1,6 @@
-# RCNN
+# `handmade-messy-RCNN`
+
+> My futile and cute struggle to make RCNN(Regional Convolutional Neural Network) from scratch. I burned more than 30+ hours to do. The result was catastrophically tragic. Help received from ![@GAP-dev](https://github.com/GAP-dev). And failed together, again.
 
 1. Set up
 ```sh
