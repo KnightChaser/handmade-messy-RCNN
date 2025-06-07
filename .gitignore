@@ -1,4 +1,5 @@
-.venv
-__pycache__
-RCNNDataCache
+rcnn_venv
+VOCtrainval_06-Nov-2007.tar
 VOCdevkit
+VOCdevkit/*
+*.h5
